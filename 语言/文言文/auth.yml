@@ -2,7 +2,7 @@
 login:
   title: 登录籍
   message: 夫登录君惠子
-  success: 录师，欢迎入
+  success: 录师，欢迎入！
 check:
   anonymous: 未付权聘，请先登录
   verified: 必验草箱然后得之
