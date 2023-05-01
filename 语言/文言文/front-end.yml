@@ -1,19 +1,19 @@
 ---
 auth:
-  login: 登录籍。
+  login: 登录籍
   loggingIn: 登录中
   tooManyFails:
-    captcha: 尝试为之屡矣，请输官验其必。
+    captcha: 尝试为之屡矣，请输官验其必
     recaptcha: 尝试之数多矣，请因之 reCAPTCHA 人机验之
   emptyEmail: 汝亦不填邮奁哉
   invalidConfirmPwd: 密立细须待愚？
   emptyNickname: 汝亦未填合伊哉
   register: 注册宝
   registering: 注册中
-  send: 发送行。
+  send: 发送行
   sending: 发送中
   reset: 重置之
-  resetting: 重置中都。
+  resetting: 重置中都
   nickname: 昵之曰
   player-name: 戏内名关
   email: 电子司馈箱椟
@@ -21,135 +21,135 @@ auth:
   password: 密举其中
   captcha: 请输官验其高者
   change-captcha: 攻以易图
-  login-link: 已得出入号矣？登录籍。
+  login-link: 已得出入号矣？登录籍
   forgot-link: 忘其累？
   keep: 志我
-  repeat-pwd: 复密举其高。
-  nickname-intro: 昵称可使用汉字，不可包含特殊字符
-  player-name-intro: 游戏内的角色名，注册后可修改
+  repeat-pwd: 复密举其高
+  nickname-intro: 昵之得用汉字，不可含殊异之符
+  player-name-intro: 戏内关名，注水册而刊之
   forgot:
-    login-link: 我又想起来了
+    login-link: 我又欲起
 skinlib:
   private: 私密
   anonymous: 请先登录
-  reset: 清除筛选
-  addToCloset: 添加至衣柜
-  removeFromCloset: 从衣柜中移除
-  setItemName: 给你的皮肤起个名字吧~
-  applyNotice: 收藏后可以在我的衣柜里将皮肤应用至角色
-  emptyItemName: 你还没有填写要收藏的材质名称啊
-  setNewTextureName: '请输入新的材质名称：'
-  emptyNewTextureName: 你还没有输入新名称啊
-  seeMyUpload: 我上传的
-  apply: 立即使用
+  reset: 除却筛选
+  addToCloset: 加至衣柜
+  removeFromCloset: 自衣柜中移除之
+  setItemName: 赠君之皮肤而名~
+  applyNotice: 藏后吾衣柜中，引皮肤宜至履
+  emptyItemName: 子未实而藏材名也
+  setNewTextureName: '请输新材名：'
+  emptyNewTextureName: 卿未输新名也
+  seeMyUpload: 余上传者
+  apply: 即用之
   filter:
-    skin: '（任意模型）'
+    skin: '（恣为型）'
     steve: '（Steve）'
     alex: '（Alex）'
-    cape: '（披风）'
+    cape: '（披风被出）'
     uploader: '用户（UID = :uid）上传'
-    allUsers: 所有用户
+    allUsers: 凡用户，皆以户数用之
   sort:
-    title: 排序
+    title: 序
     time: 最新上传
-    likes: 最多收藏
-  emptyTextureName: 给你的材质起个名字吧
-  emptyUploadFile: 你还没有上传任何文件哦
-  fileExtError: '错误：皮肤文件必须为 PNG 格式'
+    likes: 大指衣服，大藏之
+  emptyTextureName: 与子之材欤
+  emptyUploadFile: 君无可传文哉
+  fileExtError: '误矣：肤文须为 PNG 式'
   uploading: 上传中
-  setAsPrivate: 设为隐私
-  setAsPublic: 设为公开
-  setPublicNotice: 要将此材质设置为公开吗？
-  setPrivateNotice: 要将此材质设置为私有吗？
-  deleteNotice: 真的要删除此材质吗？
-  setNewTextureModel: "请选择新的材质适用模型："
+  setAsPrivate: 设为人阴私
+  setAsPublic: 设公为显公
+  setPublicNotice: 夫以材为明乎？
+  setPrivateNotice: 将以其材为私乎？
+  deleteNotice: 岂除此材哉？
+  setNewTextureModel: "请择新材而法之："
   upload:
-    texture-name: 材质名称
-    texture-type: 材质类型
-    select-file: 选择文件
-    privacy-notice: 其他人将不会在皮肤库中看到此材质
-    set-as-private: 设置为私密材质
-    button: 确认上传
-    cost: 这会消耗您约 :score 积分。
-    award: 上传公开材质至皮肤库可以获得 :score 积分奖励。
+    texture-name: 材名
+    texture-type: 材类也
+    select-file: 择文牒取文
+    privacy-notice: 他将不见此材于皮肤库
+    set-as-private: 设私材之材也
+    button: 格言至言
+    cost: 此耗子之约也 :score 积分
+    award: 传材显至肤库而得存焉 :score 积分奖厉
   show:
-    anonymous: 登录后才能使用衣柜哦
-    likes: 收藏人数
-    detail: 详细信息
-    name: 名称
-    edit: 修改
-    model: 适用模型
-    size: 文件大小
+    anonymous: 既录而后衣匮哉
+    likes: 藏之数
+    detail: 详信息
+    name: 其名
+    edit: 改修改定
+    model: 调其法
+    size: 文吏大小悉缺
     uploader: 上传者
-    upload-at: 上传日期
-    download: 下载
-    delete-texture: 删除材质
-    manage-notice: 材质设为隐私或被删除后将会从每一个收藏者的衣柜中移除。
+    upload-at: 传期
+    download: 载下载
+    delete-texture: 除材
+    manage-notice: 材设为隐，除其所藏者，取其柜中而去之
   report:
-    title: 举报
-    reason: 请填写举报原因
-    positive: 为鼓励用户积极维护皮肤库的环境，每举报一个材质你可以获得 :score 积分的奖励。但是，如果被发现有恶意举报等行为，奖励的积分将会被全部收回，并且有可能受到额外的惩罚。
-    negative: 为了减轻恶意举报带来的工作量，我们会在你提交举报时扣除 :score 积分。不用担心，举报通过后暂扣的积分将会全部返还，并且可以获得额外的积分奖励。
+    title: 材设为隐，除其所藏者，取柜中而去之
+	reason: 寒女喜懈怠，请填写举报原因
+    positive: 为劝家之坚，而举一材之材可得也 :score 积分奖厉若见恶意举，奖劝积尽获，而有加罚
+    negative: 为减恶质作量，则提奸举从生 :score 积分不用担心，举报通过后暂扣的积分将会全部返还，并且可以获得额外的积分奖励
 user:
-  signRemainingTime: ':time :unit 后可签到'
-  timeUnitHour: 小时
-  timeUnitMin: 分钟
+  signRemainingTime: ':time :unit 后可御名'
+  timeUnitHour: 时少
+  timeUnitMin: 分钟生蕤钟
   emptyClosetMsg: >-
-    <p>衣柜里啥都没有哦~</p><p>去<a href=":url">皮肤库</a>看看吧~</p>
-  renameItem: 重命名物品
-  removeItem: 从衣柜中移除
-  setAsAvatar: 设为头像
-  viewInSkinlib: 在皮肤库中查看
-  switch2dPreview: 切换 2D 预览
-  switch3dPreview: 切换 3D 预览
-  removeFromClosetNotice: 确定要从衣柜中移除此材质吗？
-  emptySelectedTexture: 你还没有选择要应用的材质哦
-  renameClosetItem: '请输入此衣柜物品的新名称：'
-  changePlayerName: '请输入角色名：'
-  emptyPlayerName: 你还没有填写名称哦
-  deletePlayer: 真的要删除该玩家吗？
-  deletePlayerNotice: 这将是永久性的删除
-  chooseClearTexture: 选择要删除的材质类型
-  noClearChoice: 您还没选择要删除的材质类型
-  setAvatar: 确定要将此材质设置为用户头像吗？
-  setAvatarNotice: 将会自动截取皮肤头部
-  resetAvatarConfirm: 确定要重置头像吗？
-  typeToSearch: 输入即搜索
-  useAs: 使用...
-  resetSelected: 重置已选材质
+    <p>衣匮何都无哉~</p><p>去<a href=":url">皮肤库</a>观乎~</p>
+  renameItem: 重名物
+  removeItem: 自衣柜中移除之
+  setAsAvatar: 设似
+  viewInSkinlib: 中阅视肌库中
+  switch2dPreview: 切易之 2D 先览独视
+  switch3dPreview: 切易之 3D 先览独视
+  removeFromClosetNotice: 必自衣柜中移此材乎？
+  emptySelectedTexture: 子未择材哉！
+  renameClosetItem: '请输衣大柜新名：'
+  changePlayerName: '请输官：'
+  emptyPlayerName: 汝亦无填名哉
+  deletePlayer: 岂无抄削其玩哉？
+  deletePlayerNotice: 斯则永矣
+  chooseClearTexture: 择除材之类也
+  noClearChoice: 子未择除材之类也，
+  setAvatar: 定其材以似？
+  setAvatarNotice: 将自断其皮首
+  resetAvatarConfirm: 定要反邪？
+  typeToSearch: 输即索之
+  useAs: 用之...
+  resetSelected: 重选材之材
   closet:
-    upload: 上传材质
+    upload: 传材传微
     use-as:
-      title: 要给哪个角色使用呢？
-      empty: 你好像还没有添加任何角色哦
+      title: 夫谁行之？
+      empty: 夫谁行之？
   used:
-    title: 使用情况
-    players: 角色数量
-    storage: 存储空间
-  cur-score: 当前积分
-  score-notice: 点击积分查看说明
-  sign: 签到
+    title: 用事者
+    players: 关数月
+    storage: 存储虚体
+  cur-score: 至今积分
+  score-notice: 微击积分验是
+  sign: 莅名签至
   player:
-    operation: 操作
-    edit-pname: 修改角色名
-    delete-texture: 删除材质
-    delete-player: 删除角色
-    add-player: 添加新角色
-    texture-empty: 未上传
+    operation: 废滞崩
+    edit-pname: 关津改名
+    delete-texture: 关津改名
+    delete-player: 除边关
+    add-player: 加关加好
+    texture-empty: 不传
   verification:
-    title: 验证你的邮箱地址
-    message: 你必须验证你的邮箱才能正常使用本站的皮肤托管等功能。没有收到验证邮件？
-    resend: 点击这里再次发送。
-    sending: 正在发送……
+    title: 验汝铺箱舍
+    message: 汝须验邮箧方常有用本官者不验邮者何？
+    resend: 点击此再馈
+    sending: 正发送…
   oauth:
-    id: 客户端 ID
-    name: 应用名
-    secret: 客户端 Secret
+    id: 户牖客端 ID
+    name: 火化一人，
+    secret: 户牖客端 Secret
     redirect: 回调 URL
-    modifyName: 更改应用名
-    modifyUrl: 更改回调 URL
-    create: 创建应用
-    confirmRemove: 确认要删除这个应用吗？此操作不可撤销。
+    modifyName: 更宜以名变
+    modifyUrl: 更报调还 URL
+    create: 火化于用
+    confirmRemove: 必就除其用乎？此废滞不可废
 admin:
   operationsTitle: 更多操作
   permission: 权限
@@ -202,9 +202,9 @@ admin:
   disablePlugin: 禁用
   confirmDeletion: 真的要删除这个插件吗？
   uploadArchive: 上传压缩包
-  uploadArchiveNotice: 通过上传 Zip 压缩包来安装插件。
+  uploadArchiveNotice: 通过上传 Zip 压缩包来安装插件
   downloadRemote: 从远程下载
-  downloadRemoteNotice: 通过远程 URL 来下载 Zip 压缩包并安装插件。
+  downloadRemoteNotice: 通过远程 URL 来下载 Zip 压缩包并安装插件
   updateButton: 马上升级
   downloading: 正在下载更新包
   i18n:
@@ -215,7 +215,7 @@ admin:
     modify: 修改
     delete: 删除
     updating: '请输入新的文本内容：'
-    confirmDelete: 确认删除吗？此操作不可恢复。
+    confirmDelete: 确认删除吗？此操作不可恢复
 report:
   tid: 材质 ID
   reporter: 举报人
@@ -249,7 +249,7 @@ general:
   reset: 重置
   skinlib: 皮肤库
   wait: 请稍等...
-  csrf: 页面已过期，请刷新页面。
+  csrf: 页面已过期，请刷新页面
   user:
     email: 邮箱
     nickname: 昵称
@@ -261,13 +261,13 @@ general:
     previews: 预览材质
     last-modified: 修改时间
 colors:
-  black: 黑色
-  white: 白色
-  gray: 灰色
-  prev: 上个背景
-  next: 下个背景
+  black: 黑
+  white: 白
+  gray: 灰
+  prev: 上人背景
+  next: 下人背景
 vendor:
   datatable:
-    search: 搜索
-    prev: 上一页
-    next: 下一页
+    search: 索之
+    prev: 上一格
+    next: 下一径
