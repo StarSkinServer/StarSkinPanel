@@ -1,25 +1,25 @@
 ---
-index: 首页
+index: 首截叶标
 skinlib: 皮肤库
-user-center: 用户中心
+user-center: 以户中心藏之
 logout: 登出
 login: 登录
-register: 现在注册
-profile: 个人资料
-admin-panel: 管理面板
+register: 今注册
+profile: 人所资也
+admin-panel: 治面板
 explore: 浏览
-manage: 管理
-anonymous: 未登录
-back: 返回
-dashboard: 仪表盘
-my-closet: 我的衣柜
-my-reports: 我的举报
-developer: 高级功能
-oauth-manage: OAuth2 应用
-player-manage: 角色管理
-user-manage: 用户管理
-report-manage: 举报管理
-plugin-manage: 插件管理
+manage: 治
+anonymous: 不书
+back: 还
+dashboard: 仪盘
+my-closet: 衣匮
+my-reports: 举我论之
+developer: 乃上之为物也
+oauth-manage: OAuth2 用圣适
+player-manage: 关治
+user-manage: 用户治
+report-manage: 举生告之
+plugin-manage: 插件治
 plugin-market: 插件市场
 plugin-configs: 插件配置
 customize: 个性化
@@ -30,30 +30,30 @@ res-options: 资源配置
 status: 运行状态
 check-update: 检查更新
 download-update: 下载更新
-close: 关闭
-skin: 皮肤
-cape: 披风
+close: 闭其闭
+skin: 皮
+cape: 披风被出
 submit: 提交
-cancel: 取消
+cancel: 罢之
 yes: true
 no: false
-op-success: 操作成功
+op-success: 废滞崩阤
 unknown: 未知
 notice: 提示
-illegal-parameters: 非法参数
+illegal-parameters: 奸脏数
 private: 私密
-public: 公开
-unexistent-user: 不存在的用户
-player-banned: 该角色拥有者已被本站封禁
-texture-deleted: 请求的材质已被删除
+public: 显公为显公
+unexistent-user: 其不存者为户
+player-banned: 且夫重生者已在本而立禁
+texture-deleted: 其材既除削
 user:
-  email: 邮箱
-  nickname: 昵称
-  password: 密码
+  email: 铺箱司寇
+  nickname: 昵之曰
+  password: 密举其中
   score: 积分
-  register-at: 注册时间
+  register-at: 注册时
 player:
-  owner: 拥有者
-  player-name: 角色名
-  previews: 预览材质
-  last-modified: 修改时间
+  owner: 有大地者
+  player-name: 关名
+  previews: 故材览国
+  last-modified: 改修时
