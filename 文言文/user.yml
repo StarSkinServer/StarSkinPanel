@@ -1,0 +1,102 @@
+---
+sign-success: 驾及捷，获之。 :score 积分
+announcement: 公告周公
+no-unread: 无读通告。
+verification:
+  disabled: 既闭盐箱验其官物，
+  frequent-mail: 铺司发送者频矣，度六十秒后别发送之。
+  verified: 汝既验邮箱矣。
+  success: 验司人已发送，请检校若收箱。
+  failed: 陶人发送败，详信息：:msg
+  mail:
+    title: 验子验之于子 :sitename 计校户铺箱上
+    message: 官得其封邮者，以人在也 :sitename 注册用本邮箧家居。
+    reset: '点击此作诗饭迎验王铺箱：<a href=":url">:url</a>'
+    ignore: 若以君并未聘吾网，或不废滞崩阤，请略此封邮也。
+score-intro:
+  title: 积分者何？？
+  introduction: |
+    防其滥材传之用多储之说，固已启以积分系之也。
+    关加、上传材，及以皮肤库之材至衣匮等滞崩。
+    :return-score
+
+   本立以初正之始，积而为本:initial_score，每日莅事可机得随机 :score-from ~ :score-to 积分。
+  will-return-score: 除得小人！传材、衣匮之藏，将还应积分。
+  no-return-score: 除得小人！传材、衣匮之藏，不还应积分。
+  rates:
+    storage: ':score 积分 = 1 KB 存储虚体'
+    player: ':score 积分 = 1 个阖扇'
+    closet: ':score 积分 = 1 个衣箧藏匮'
+closet:
+  add:
+    success: 材 :name 藏成功而成兆朕
+    repeated: 子过此材矣
+    not-found: 材失其本
+    lack-score: 藏败，积分不足
+  rename:
+    success: 匣中物，名曰至重 :name
+  remove:
+    success: 材已自衣柜中移除之
+    non-existent: 衣柜中无此材
+player:
+  login-notice: 夫君可以用君自行之
+  player-name-rule:
+    official: 关名只包得丁字母数及下线。
+    cjk: 君名可用挽丁字母、数、下线及字。
+    utf8: 羁名必OUT 8。
+    custom: 本立为定义仓名，其详请月点管理。
+  player-name-length: 关名少求为最 :min 个字符，大不过一过 :max 个字符。
+  add:
+    repeated: 轼夫名已占用矣
+    lack-score: 加关败绩，积分不足
+    success: 成加君惠 :name
+  delete:
+    success: 阖扇 :name 除削之
+  rename:
+    repeated: 轼夫名已占用矣
+    success: 阖扇 :old 已更名曰 :new
+  set:
+    success: 材已成宜至君关 :name
+  clear:
+    success: 阖扇 :name 材已成矣
+profile:
+  avatar:
+    title: 更似？
+    notice: 衣柜中恣皮肤右角下「<i class="fa fa-cog"></i>」图标云：「设个似」，便自截得肤首为似。若不见其图，请尝试闭君之广告之。
+    wrong-type: 被风不可设为似
+    success: 设成功
+    reset: 重置头似
+  password:
+    title: 更密涉其高丽密
+    old: 原流泉浡
+    new: 新密举其中
+    confirm: 讳其名
+    button: 改密造名
+    wrong-password: 原密举错缪
+    success: 密造修改，请复录之
+  nickname:
+    title: 更著昵曰
+    empty: 今未设昵谓之
+    success: 昵成设令曰 :nickname
+  email:
+    title: 改司箱帘
+    new: 新铺司箧
+    password: 今密涉其高蹈，
+    button: 改治邮箧
+    wrong-password: 密迁其过
+    existed: 其邮箧已见夺用矣
+    success: 邮人改作，请重录
+  delete:
+    title: 除出入号
+    notice: 盖删汝自失也 :site 出入号乎
+    admin: 夫有司危率之地，不能删除也
+    button: 除吾出入号
+    modal-title: 其危滞崩阤，失其细者以续
+    modal-notice: |
+      莫不废滞崩！
+      传至皮库之材犹存，而君关永除。
+      吾无所司，或奇罢钲。
+      吾悔戒汝矣，果如是乎？
+    password: 今密涉其高蹈
+    wrong-password: 密迁其过
+    success: 所至亦如成功

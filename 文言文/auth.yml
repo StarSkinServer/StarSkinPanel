@@ -1,0 +1,85 @@
+---
+login:
+  title: 登录籍
+  message: 夫登录君惠子
+  success: 录师，欢迎入
+check:
+  anonymous: 未付权聘，请先登录
+  verified: 必验草箱然后得之
+  admin: 惟管围之
+  banned: 汝既得本立禁，其详请通立掌员
+register:
+  title: 注册宝
+  message: 欢迎用师 :sitename！
+  success: 注册成功，方超转...
+  max: 夫于本立册帐哭已至上限 :regs 一人，无以继宣册
+forgot:
+  title: 忘其累实而忘其高
+  message: 我当移军取验邮司二人云
+  disabled: 立闭其累也
+  frequent-mail: 人传既频矣，过会儿再发送
+  unregistered: 铺箱未注册
+  success: 邮禀已送，少内有验，请谨视收
+  failed: 陶人发送败，详信息：:msg
+  ignore: 若以君并未聘吾网，或不废滞崩阤，请略此封邮也。君不须当退定诸废滞崩
+  reset: 累其高
+  notice: 人传者自系统送，虽汝复不报也
+  mail:
+    title: 重置君于公 :sitename 上出入家累尤高
+    message: 官得此封邮者也，盖有在人也 :sitename 其地形处重在君舍
+    reset: '点击是舍客私举：<a href=":url">:url</a>'
+    ignore: 若以君并未聘吾网，或不废滞崩阤，请略此封邮也
+reset:
+  title: 累其高。
+  button: 重置之
+  invalid: 不为执秩以受之
+  expired: 作执听期
+  message: ':username，于此张令密累高'
+  success: 密举重成其功
+bind:
+  title: 缚定邮箧
+  button: 执囚定
+  message: 其处囚定邮箱址以续本立
+  introduction: 铺箱仅于重处高，何不馈法司闻
+  registered: 其邮箧已见夺用矣
+verify:
+  title: 司箱验其法司考验。
+  invalid: 不为执秩以受之。
+  not-matched: 铺箱不敌。
+validation:
+  user: 用户无存者。
+  password: 密迁其过
+logout:
+  success: 登成其功
+oauth:
+  authorization:
+    title: 授权
+    introduction: 第三方用：肥瘠陈请取权限。
+    button: 授权
+    permissions: 权限
+  scope:
+    user:
+      read: 及登录诸人问
+    notification:
+      read: 许以读子告
+      readwrite: 许以发送告
+    player:
+      read: 唯当观君所好
+      readwrite: 请以创观之，改与删除君首幸
+    closet:
+      read: 许以读衣匮物
+      readwrite: 许所作，观其所取，更与删衣匮物
+    users-management:
+      read: 许读身立灶
+      readwrite: 许所作，观其所取，改及删肤立者以户
+    players-management:
+      read: 许观夫致皮肤之操。
+      readwrite: 请以创观之，改与删肤立精良
+    closet-management:
+      read: 许以地著君王后衣柜
+      readwrite: 许所作，观其所取，改及删其衣匮
+    reports-management:
+      read: 王读取用户举之。
+      readwrite: 王读取、用户举之
+email: 电子司馈箱椟
+register-link: 电子司馈箱椟
