@@ -41,7 +41,7 @@ closet:
 player:
   login-notice: 夫君可以用君自行之
   player-name-rule:
-    official: 关名只包得丁字母数及下线。
+    official: 关名只包得丁字母数及下线！
     cjk: 君名可用挽丁字母、数、下线及字。
     utf8: 羁名必OUT 8。
     custom: 本立为定义仓名，其详请月点管理。
