@@ -1,7 +1,7 @@
 # StarSkinPanel 星空皮肤站新面板 附属 | 部件
 **注：原主项目为 [blessing skin server](https://github.com/bs-community/blessing-skin-server)**
 ### 我想说的话
-StarSkin 新官网正在编写，此项目为StarSkinPanel部件。您可以直接使用，但要提醒的是，项目是对于StarSkin编写的，对其他皮肤站的兼容性是很差的，您可以进行修改来适配您的皮肤站。莫忘，若使用，请象征性的表明此项目哦藕❤
+StarSkin 新官网正在编写，此项目为StarSkinPanel部件。您可以直接使用，但要提醒的是，项目是对于StarSkin编写的，对其他皮肤站的兼容性是很差的，您可以进行修改来适配您的皮肤站。莫忘，若使用，请象征性的标明此项目哦藕❤
 ### 我还想说的话
 若您想对StarSkin的修改上提供您宝贵的意见，欢迎提交lssues哦！！！
 ### 广告
