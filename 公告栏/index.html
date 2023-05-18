@@ -33,8 +33,8 @@
       <img src=https://api-view.star-skin.cn/group width=16% alt="StarSKin" align="right" />
       <br>
       <div class="dashed-line"></div>
-      <p id="cTMail-userName" style="font-size:15px;color:#333; line-height:28px; margin:0;">
-        <span id="jinrishici-sentence">正在加载今日诗词....</span>
+      <p id="cTMail-userName" style="font-size:20px;color:#333; line-height:28px; margin:0;">
+          <div id="hitokoto"><script>hitokoto()</script></div>
       </p>
       <button class="mt-4 px-4 py-2 bg-gray-700 text-white rounded hover:bg-gray-600 transition duration-300 ease-in-out" @click="closeAnnouncement">关闭</button>
     </div>
@@ -42,6 +42,6 @@
 
   <script src="https://unpkg.com/vue@3.2.20/dist/vue.global.prod.js"></script>
   <script src="index.js"></script>
-  <script src="http://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+  <script type="text/javascript" src="https://api-view.star-skin.cn/hitokoto/?format=js&charset=utf-8"></script>
 </body>
 </html>
