@@ -1,0 +1,16 @@
+.announcement {
+  background-color: rgba(128, 128, 128, 0.2);
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn-custom {
+  background-color: #4a4a4a;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.btn-custom:hover,
+.btn-custom:focus {
+  background-color: #636363;
+}

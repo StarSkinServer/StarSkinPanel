@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>公告栏示例</title>
+  <link rel="stylesheet" href="vue.css">
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <!--虚线框-->
+  <style>
+    .dashed-line {
+        border-top: 1px dashed rgb(119, 119, 119);
+        width: 100%;
+        height: 0;
+    }
+</style>
+</head>
+<body>
+  <div id="app" class="flex justify-center items-center min-h-screen">
+    <div class="announcement w-3/4">
+      <h2 class="text-2xl font-bold mb-4">| 🎉 StarSkin 公告</h2>
+       😜长话短说<br><br>
+
+
+       🎉服务条款<br><br>
+
+
+       🌹相关链接<br><br>
+
+
+       ✨群聊<br><br>
+
+
+      <br>
+      <img src=https://api-view.star-skin.cn/group width=16% alt="StarSKin" align="right" />
+      <br>
+      <div class="dashed-line"></div>
+      <p id="cTMail-userName" style="font-size:15px;color:#333; line-height:28px; margin:0;">
+        <span id="jinrishici-sentence">正在加载今日诗词....</span>
+      </p>
+      <button class="mt-4 px-4 py-2 bg-gray-700 text-white rounded hover:bg-gray-600 transition duration-300 ease-in-out" @click="closeAnnouncement">关闭</button>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/vue@3.2.20/dist/vue.global.prod.js"></script>
+  <script src="index.js"></script>
+  <script src="http://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+</body>
+</html>
