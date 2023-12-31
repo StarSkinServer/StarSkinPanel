@@ -1,5 +1,5 @@
 # 维护完成 | 随机图片 API
-> 调用地址： https://api-view.star-skin.cn/img
+> 调用地址： https://api.shanrenyi.top/img
 
 ### 我想说的话
 无话可说
